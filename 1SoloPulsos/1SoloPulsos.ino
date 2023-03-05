@@ -15,8 +15,8 @@ void loop() {
 
  
 
-
- contador = 0;
+contador = 0;
+ 
 
 }
 
